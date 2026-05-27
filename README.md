@@ -10,5 +10,5 @@ Ez/egy/proba
 
 ###header 3
 
-Címsor 3. probálja
+Címsor 3. probálja.
 
